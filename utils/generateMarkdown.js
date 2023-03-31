@@ -13,7 +13,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if (license !== "None") {
     return (
-      `\n *[License](#license)\n`
+      `\n [License](![GitHub](https://img.shields.io/github/license/kenneilsmith/readme-maker-challenge-9))\n`
 
     )
   }
@@ -33,7 +33,6 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-
 
   return `# ${data.title} 
   ## Description 
@@ -64,8 +63,6 @@ function generateMarkdown(data) {
   ## Contact
   ${data.github}\n
   ${data.email}`
-  // ## Contributing ${data.contributing} ## Tests To run tests, run the following command: \`\`\` ${data.tests} \`\`\` ## Questions If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.github}](${data.github}).
-
 }
 
 module.exports = generateMarkdown

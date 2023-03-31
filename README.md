@@ -11,21 +11,21 @@
   - [Contact](#contact) 
   
   ## Installation  
-  N/A
+  NA
   ## Features
   user provides the content needed for a readme and the readme will be generated
   ## Contributing
-  please contribute
+  
   ## Testing
-  N/A
+  NA
   ## License
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
   
- [License](#license)
+ [License](![GitHub](https://img.shields.io/github/license/kenneilsmith/readme-maker-challenge-9))
  
   This project is licensed under the MIT license. 
   ## Credits
-  JD Todlock - Bootcamp Instructor
+  D Todlock - Bootcamp Instructor
   ## Contact
   https://github.com/kenneilsmith
 
