@@ -1,0 +1,22 @@
+{
+  "name": "readme-maker",
+  "version": "1.0.0",
+  "description": "this application is used to generate a readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Smith",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenneilsmith/readme-maker-challenge-9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kenneilsmith/readme-maker-challenge-9/issues"
+  },
+  "homepage": "https://github.com/kenneilsmith/readme-maker-challenge-9#readme"
+}
